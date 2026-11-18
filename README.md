@@ -49,8 +49,6 @@ TypeScript
 Web application development
 SEO-oriented functionality
 
-Repository: https://github.com/babayaga0x
-
 02 — CRYPTODASH FINANCIAL DATA / ANGULAR
 
 A cryptocurrency dashboard built to visualize market information, search and sort coins, and display price charts using the CoinGecko API.
