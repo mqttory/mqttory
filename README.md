@@ -9,7 +9,6 @@ text
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=42F5C5&center=true&vCenter=true&width=800&lines=ANNA+M%C3%9CLLER+%E2%9A%A1;Full-Stack+Developer+%E2%98%A3;Turning+Ideas+Into+Digital+Reality+%F0%9F%A7%AC;Building.+Breaking.+Rebuilding.+%F0%9F%94%AE)](https://git.io/typing-svg)
 
-
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:5425A8,100:00E5C4&height=180&section=header&text=ANNA%20M%C3%9CLLER&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38)
 
 <p align="center">
@@ -70,8 +69,6 @@ JavaScript
 Frontend/backend integration
 Collaborative development
 Rapid debugging
-
-Repository: https://github.com/Rosario-22/Hackaton-2026-Ajedrez3D
 
 04 — SMART HOME / IoT NETWORK ENGINEERING
 
